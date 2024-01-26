@@ -25,6 +25,11 @@ export default function Portfolio() {
                 image: FaChrome,
                 link: "https://news.wsu.edu/press-release/2022/07/20/nomadic-broadband-could-help-rural-first-responders-stay-connected/",
               },
+              {
+                name: "Github",
+                image: FaGithub,
+                link: "https://github.com/SahomaControlware/Nomadic-Broadband-Unit",
+              },
             ]}
           >
             Nomadic Broadband Unit
