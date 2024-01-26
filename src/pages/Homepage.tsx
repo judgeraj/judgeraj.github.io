@@ -36,8 +36,7 @@ export default function Homepage({
           name="description"
           content="I am a Software Engineer. This is my portfolio website."
         />
-        <link rel="icon" href="/logo.png" />
-        {/* <link rel="canonical" href="https://daridis.com/" /> */}
+        <link rel="icon" href="/rajpreetjudge/logo.png" />
       </Helmet>
 
       <Navbar
@@ -49,7 +48,7 @@ export default function Homepage({
           marginRight:
             "mr-[1rem] 2sm:mr-[4rem] sm:mr-[6rem] md:mr-[4rem] lg:mr-[8rem] xl:mr-[14rem] 2xl:mr-[20rem]",
         }}
-        logoPath="/logo.png"
+        logoPath="/rajpreetjudge/logo.png"
         logoTitle=""
         menu={["Home", "Skills", "Portfolio"]}
       />
